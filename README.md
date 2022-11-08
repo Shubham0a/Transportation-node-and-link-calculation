@@ -1,14 +1,15 @@
 # Transportation 
 
-![Error:404! Image not found.](https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/min-distance.jpg?raw=true)
+<img src="https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/transport.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500">
 
 ## node-and-link-calculation
 
-![Error:404! Image not found.](../master/export.png)
+<img src="https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/linkage.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500">
 
 ## minimum distance between each node calculation
 
-![Error:404! Image not found.](node-link.png)
+<img src="https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/min-distance.png?raw=true" alt="Error:404! Image not found." width="750" height="500">
+<!-- ![Error:404! Image not found.](https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/select.jpg?raw=true) -->
 
 ## Installation
 
@@ -24,6 +25,20 @@ and
 _**some other scources which helped me**_
 
 ## Usage
+
+## Download map.osm file from **openstreet** [link*](https://www.openstreetmap.org/)
+### Use method as follows:-
+
+> 1. Open the website of openstreet from the [link*](https://www.openstreetmap.org/).
+<img src="https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/open-street-map.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500">
+
+> 2. Go to export ans select the location.
+<img src="https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/export.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500">
+
+> 3. export the osm file. 
+<img src="https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/select.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500"> 
+
+> 4. run the scource code with map.osm *_Note: Both should be in same directory_*
 
 ```python
 import os
@@ -41,6 +56,12 @@ with open('link.csv') as csv_file:
 .
 
 ```
+
+## Contact Me
+
+Feel free to contact me:-
+
+[JOIN ME](https://shubham-0a.github.io/portfolio/)
 
 ## Contributing
 
