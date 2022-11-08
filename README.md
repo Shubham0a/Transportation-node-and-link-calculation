@@ -1,6 +1,6 @@
 # Transportation 
 
-![Error:404! Image not found.](node-link.png)
+![Error:404! Image not found.](https://github.com/Shubham-0a/Transportation-node-and-link-calculation/min-distance.jpg?raw=true)
 
 ## node-and-link-calculation
 
