@@ -21,7 +21,7 @@ special thanks to: _**openstreetmap**_
 and
 _**Jiawei Lu, Xuesong (Simon) Zhou**_
 and
-_**some other scorces which helped me**_
+_**some other scources which helped me**_
 
 ## Usage
 
