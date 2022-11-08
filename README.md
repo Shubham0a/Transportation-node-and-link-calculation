@@ -40,6 +40,10 @@ _**some other scources which helped me**_
 
 > 4. run the scource code with map.osm *_Note: Both should be in same directory_*
 
+> 5. run transportation.exe file
+
+> 6. distance.txt file will be created which contains minimum distance corresponding to each node.
+
 ```python
 import os
 import csv
