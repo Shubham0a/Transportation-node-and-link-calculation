@@ -1,14 +1,12 @@
 # Transportation 
-
 <img src="https://raw.githubusercontent.com/Shubham-0a/Transportation-node-and-link-calculation/main/transport.jpg" alt="Error:404! Image not found." width="750" height="500">
 
 ## node-and-link-calculation
-
 <img src="https://raw.githubusercontent.com/Shubham-0a/Transportation-node-and-link-calculation/main/linkage.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500">
 
 ## minimum distance between each node calculation
-
-<img src="https://raw.githubusercontent.com/Shubham-0a/Transportation-node-and-link-calculation/main/min-distance.png?raw=true" alt="Error:404! Image not found." width="750" height="500">
+![min-distance](https://user-images.githubusercontent.com/75657176/209528984-976f2c42-0268-4931-836c-1836d679b04f.png)
+<!-- <img src="https://raw.githubusercontent.com/Shubham-0a/Transportation-node-and-link-calculation/main/min-distance.png?raw=true" alt="Error:404! Image not found." width="750" height="500"> -->
 <!-- ![Error:404! Image not found.](https://github.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/select.jpg?raw=true) -->
 <!-- https://raw.githubusercontent.com/Shubham-0a/Transportation-node-and-link-calculation/main/select.jpg -->
 ## Installation
