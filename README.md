@@ -1,6 +1,6 @@
 # Transportation 
 
-<img src="https://raw.githubusercontent.com/Shubham-0a/Transportation-node-and-link-calculation/blob/main/transport.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500">
+<img src="/transport.jpg?raw=true" alt="Error:404! Image not found." width="750" height="500">
 
 ## node-and-link-calculation
 
