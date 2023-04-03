@@ -53,7 +53,7 @@ with open('link.csv') as csv_file:
 
 Feel free to contact me:-
 
-[JOIN ME](https://shubham-0a.github.io/portfolio/)
+[JOIN ME](https://shubham0a.github.io/portfolio/)
 
 ## Contributing
 
